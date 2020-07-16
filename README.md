@@ -25,8 +25,8 @@ Ask me about
 - OOP
 
 How to reach me:
-Email - olalekandwl@gmail.com
 
+- Email:- olalekandwl@gmail.com
 - [Twitter](https://twitter.com/Kvng_Adewale)
 - [LinkedIn](https://www.linkedin.com/in/olalekan-adewale-4703b1b2/)
 
