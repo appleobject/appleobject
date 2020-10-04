@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Firebase, ROOM, Navigation and MVVM with LiveData - View Model (Android Architecture Component).
+My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Hilt(DI), Firebase, ROOM, Navigation and MVVM with LiveData - View Model (Android Architecture Component).
 🌱 I’m currently learning the best practice on Android Development using Kotlin and _I look forward to collaborate on any Android Development project using *Kotlin*._
 
 💬 Ask me about ...
