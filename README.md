@@ -26,7 +26,7 @@ My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Firebase,
 
 📫 How to reach me:
 
-- Drop a mail Email - Olalekandwl@gmail.com
+- Drop a mail - Olalekandwl@gmail.com
 - Connecting and Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/olalekan-adewale-4703b1b2/)
 - Tweet on a bird app about why programming is hard [Twitter](https://twitter.com/Kvng_Adewale)
 
