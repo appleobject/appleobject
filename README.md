@@ -30,4 +30,5 @@ My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Hilt(DI),
 - Connecting and Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/olalekan-adewale-4703b1b2/)
 - Tweet on a bird app about why programming is hard [Twitter](https://twitter.com/Kvng_Adewale)
 
-⚡ Fun fact:- OOP v FP
+⚡ Fun fact
+- OOP v FP
