@@ -31,4 +31,6 @@ My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Hilt(DI),
 - Tweet on a bird app about why programming is hard [Twitter](https://twitter.com/Kvng_Adewale)
 
 ⚡ Fun fact
+
 - OOP v FP
+- LiveData v StateFlow
