@@ -34,3 +34,4 @@ My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Hilt(DI),
 
 - OOP v FP
 - LiveData v StateFlow
+- Jetpack Compose v XML
