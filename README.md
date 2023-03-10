@@ -29,7 +29,7 @@ My name is **Adewale**, 🔭 I'm currently working on Android Jetpack, Hilt(DI),
 
 - Drop a mail - Olalekandwl@gmail.com
 - Connecting and Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/olalekan-adewale-4703b1b2/)
-- Tweet on a bird app about why programming is hard [Twitter](https://twitter.com/Kvng_Adewale)
+- Tweet on a bird app about why programming is hard. [Twitter](https://twitter.com/Kvng_Adewale)
 
 ⚡ Fun fact
 
